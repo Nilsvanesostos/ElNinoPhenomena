@@ -10,5 +10,6 @@ sea surface temperature data and can be downloaded from the following [link](htt
 
 
 ![SST_anomaly_1998](https://github.com/user-attachments/assets/02b88417-7b08-4acc-a27a-6fbf94a63043)
-![oceanic_niño_index](https://github.com/user-attachments/assets/14d75aba-89d2-4a28-82e7-940a56c0bf73 | width=100)
+<img src="https://github.com/user-attachments/assets/14d75aba-89d2-4a28-82e7-940a56c0bf73" width="200" height="400" />
+
 
